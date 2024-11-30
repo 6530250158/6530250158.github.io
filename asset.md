@@ -23,4 +23,4 @@
   - Simple In Daily Life
     - ระบบเครือข่าย ระบบคอมพิวเตอร์ ซอฟต์แวร์ลิขสิทธิ์
 
-[Back](6530250158.github.io)
+[Back](https://6530250158.github.io/)
