@@ -7,4 +7,4 @@
 
 [Asset](asset.md)
 
-[ไปยังเพจของเพื่อน](1dev04.github.io)
+[ไปยังเพจของเพื่อน](https://1dev04.github.io)
