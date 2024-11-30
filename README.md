@@ -1,10 +1,11 @@
 # 6530250158.github.io
-- Name : Pichaya Soising
+  - Name : Pichaya Soising
   - Nickname : Bacon
+  - Age : 21
 
 <img src="/Img/01.jpg">
-<br>
 
-[Asset](asset.md)
 
-[ไปยังเพจของเพื่อน](https://1dev04.github.io)
+- [Asset](asset.md)
+
+- [ไปยังเพจของเพื่อน](https://1dev04.github.io)
