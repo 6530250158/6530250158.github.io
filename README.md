@@ -9,3 +9,5 @@
 - [Asset](asset.md)
 
 - [ไปยังเพจของเพื่อน](https://1dev04.github.io)
+
+- [E-Card](e_card.md)
