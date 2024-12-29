@@ -1,8 +1,8 @@
 # Accuracy
 
 ## Definition  
-* Data accuracy refers to the correctness of values within a dataset. Data completeness, on the other hand, refers to the extent of data coverage. Complete datasets are de-duplicated, they don’t have any missing values, and the information they contain are relevant for the analysis at hand.
-* (ความถูกต้องของข้อมูลหมายถึงความถูกต้องของค่าภายในชุดข้อมูล ในทางกลับกัน ความสมบูรณ์ของข้อมูลหมายถึงขอบเขตของความครอบคลุมของข้อมูล ชุดข้อมูลที่สมบูรณ์จะถูกขจัดข้อมูลซ้ำซ้อน ไม่มีค่าที่ขาดหายไป และข้อมูลที่มีอยู่ในนั้นเกี่ยวข้องกับการวิเคราะห์ที่มีอยู่)
+* Data accuracy refers to how well data reflects real-world objects or events, such as a map destination aligning with its physical location. Inaccurate data—whether in maps, spreadsheets, or other forms—can result in poor decisions, lost revenue, and wasted resources. Gartner estimates that bad data costs the U.S. economy over $3 trillion annually. In sensitive industries like healthcare or fintech, the stakes are even higher.
+* (ความแม่นยำของข้อมูลหมายถึงการที่ข้อมูลสะท้อนถึงวัตถุหรือเหตุการณ์ในโลกแห่งความเป็นจริงได้ดีเพียงใด เช่น จุดหมายปลายทางบนแผนที่ที่ตรงกับตำแหน่งทางกายภาพ ข้อมูลที่ไม่แม่นยำ ไม่ว่าจะเป็นในแผนที่ สเปรดชีต หรือรูปแบบอื่นๆ อาจส่งผลให้ตัดสินใจผิดพลาด สูญเสียรายได้ และสูญเสียทรัพยากร Gartner ประมาณการว่าข้อมูลที่ไม่ดีจะก่อให้เกิดต้นทุนต่อเศรษฐกิจของสหรัฐฯ มากกว่า 3 ล้านล้านดอลลาร์ต่อปี ในอุตสาหกรรมที่มีความละเอียดอ่อน เช่น การดูแลสุขภาพหรือเทคโนโลยีทางการเงิน ผลกระทบจะยิ่งสูงกว่านี้)
 
 * [Source](https://www.montecarlodata.com/blog-what-is-data-accuracy-definition-examples-and-kpis/)
 
