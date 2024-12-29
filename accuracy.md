@@ -1,4 +1,4 @@
-# Topic  Is Accuracy in DataQuality
+# Accuracy
 
 What is Data Accuracy
 
