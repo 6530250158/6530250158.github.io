@@ -6,8 +6,10 @@
 ![Github streak,](Img/01.jpg)
 
 
-- [Asset](asset.md)
+## [Asset](asset.md)
 
-- [ไปยังเพจของเพื่อน](https://1dev04.github.io)
+## [ไปยังเพจของเพื่อน](https://1dev04.github.io)
 
-- [E-Card](e_card.md)
+## [E-Card](e_card.md)
+
+## [Accuracy](accuracy.md) 
