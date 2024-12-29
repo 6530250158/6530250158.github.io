@@ -1,8 +1,8 @@
 # Accuracy
 
 ## Definition  
-* Data accuracy refers to how well data reflects real-world objects or events, such as a map destination aligning with its physical location. Inaccurate data—whether in maps, spreadsheets, or other forms—can result in poor decisions, lost revenue, and wasted resources. Gartner estimates that bad data costs the U.S. economy over $3 trillion annually. In sensitive industries like healthcare or fintech, the stakes are even higher.
-* (ความแม่นยำของข้อมูลหมายถึงการที่ข้อมูลสะท้อนถึงวัตถุหรือเหตุการณ์ในโลกแห่งความเป็นจริงได้ดีเพียงใด เช่น จุดหมายปลายทางบนแผนที่ที่ตรงกับตำแหน่งทางกายภาพ ข้อมูลที่ไม่แม่นยำ ไม่ว่าจะเป็นในแผนที่ สเปรดชีต หรือรูปแบบอื่นๆ อาจส่งผลให้ตัดสินใจผิดพลาด สูญเสียรายได้ และสูญเสียทรัพยากร Gartner ประมาณการว่าข้อมูลที่ไม่ดีจะก่อให้เกิดต้นทุนต่อเศรษฐกิจของสหรัฐฯ มากกว่า 3 ล้านล้านดอลลาร์ต่อปี ในอุตสาหกรรมที่มีความละเอียดอ่อน เช่น การดูแลสุขภาพหรือเทคโนโลยีทางการเงิน ผลกระทบจะยิ่งสูงกว่านี้)
+* Data accuracy is the degree to which data correctly represents the real-world events or objects it is intended to describe, like destinations on a map corresponding to real physical locations or more commonly, erroneous data in a spreadsheet.
+* (ความแม่นยำของข้อมูลคือระดับที่ข้อมูลแสดงถึงเหตุการณ์หรือวัตถุในโลกแห่งความเป็นจริงได้อย่างถูกต้อง เช่น จุดหมายปลายทางบนแผนที่ที่สอดคล้องกับตำแหน่งทางกายภาพจริง หรือข้อมูลที่ผิดพลาดในสเปรดชีต)
 
 * [Source](https://www.montecarlodata.com/blog-what-is-data-accuracy-definition-examples-and-kpis/)
 
