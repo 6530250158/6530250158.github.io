@@ -5,7 +5,7 @@
 ### - [Sir. Nattawut Supapat](https://mizeto.github.io/board-game)
 ### - [Sir. Wilit Kronkulsri](https://6530200461.github.io/board-game)
 ### - [Sir. Ratthakit Kotcharin](https://6530200401.github.io/board-game)
-### - [Sir. Krittiphon Yoonaitham]()
+### - [Sir. Krittiphon Yoonaitham](https://1Dev04.github.io/board-game)
 
 
 ## วันที่ทำกิจกรรม
