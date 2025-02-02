@@ -6,12 +6,16 @@
 ![Github streak,](Img/01.jpg)
 
 
-## [Asset](asset.md)
+## [🅰️ Asset](asset.md)
 
-## [ไปยังเพจของเพื่อน](https://1dev04.github.io)
+## [😀 ไปยังเพจของเพื่อน](https://1dev04.github.io)
 
-## [E-Card](e_card.md)
+## [🎄 E-Card](e_card.md)
 
-## [Accuracy](accuracy.md) 
+## [🤖 Accuracy](accuracy.md) 
 
-## [BoardGame](board-game.md) 
+## [🎲 BoardGame](board-game.md) 
+
+## [📷 Security Control](security-control.md)
+
+## [🗳️ Pao Elections](pao-elections.md)
