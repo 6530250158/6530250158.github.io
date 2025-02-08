@@ -20,4 +20,4 @@
 
 ## [🗳️ Pao Elections](pao-elections.md)
 
-## [🗳️ Security Requirement](security-requirement.md)
+## [💻 Security Requirement](security-requirement.md)
